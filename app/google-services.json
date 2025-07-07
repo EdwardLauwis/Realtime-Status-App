@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727328166879",
+    "project_id": "latihanuikeren",
+    "storage_bucket": "latihanuikeren.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727328166879:android:e9f1e0cbb21271d870ea6a",
+        "android_client_info": {
+          "package_name": "com.example.latihanuikeren"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyswJavTfL7tm8A0RMt2drfewa2wBXbVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
